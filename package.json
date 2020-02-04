@@ -1,0 +1,20 @@
+{
+  "name": "learning.typescript.part.3",
+  "version": "1.0.0",
+  "description": "https://itnext.io/production-ready-node-js-rest-apis-setup-using-typescript-postgresql-and-redis-a9525871407",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoRoca/learning.typescript.part.3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoRoca/learning.typescript.part.3/issues"
+  },
+  "homepage": "https://github.com/HugoRoca/learning.typescript.part.3#readme"
+}
