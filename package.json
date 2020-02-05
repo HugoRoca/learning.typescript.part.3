@@ -4,6 +4,7 @@
   "description": "https://itnext.io/production-ready-node-js-rest-apis-setup-using-typescript-postgresql-and-redis-a9525871407",
   "main": "index.js",
   "scripts": {
+    "dev": "tsc-watch --onSuccess \"node ./dist/server.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
