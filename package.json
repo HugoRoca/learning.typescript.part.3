@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/HugoRoca/learning.typescript.part.3/issues"
   },
-  "homepage": "https://github.com/HugoRoca/learning.typescript.part.3#readme"
+  "homepage": "https://github.com/HugoRoca/learning.typescript.part.3#readme",
+  "dependencies": {
+    "tsc-watch": "^4.1.0",
+    "typescript": "^3.7.5"
+  }
 }
